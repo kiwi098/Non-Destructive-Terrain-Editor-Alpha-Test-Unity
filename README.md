@@ -1,4 +1,4 @@
-# Unity-Non-Destructive-Terrain-Editor-Alpha-Test
+# Non-Destructive-Terrain-Editor-Alpha-Test-Unity
 
 Hello, I made this simple test rendered images using my solo dev project in unity 3D. 
 This project is a non destructive terrain editor where I use generative methods to sculpt and change the 3d terrain. 
